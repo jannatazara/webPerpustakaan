@@ -10,13 +10,13 @@ Website ini merupakan proyek sistem informasi perpustakaan berbasis **PHP** dan 
   Tambah, ubah, dan hapus data anggota/siswa yang terdaftar.
 
 - 📘 **Manajemen Data Buku**  
-  Input buku baru, edit informasi buku, serta data stok dan kategori.
+  Input buku baru, edit informasi buku.
 
 - 📤 **Peminjaman Buku**  
   Fitur untuk mencatat buku yang dipinjam oleh siswa lengkap dengan tanggal pinjam.
 
 - 📥 **Pengembalian Buku**  
-  Pencatatan buku yang dikembalikan, termasuk denda jika melewati batas waktu.
+  Pencatatan buku yang dikembalikan.
 
 - 🔒 **Login Admin**  
   Sistem login untuk membatasi akses hanya kepada petugas perpustakaan.
@@ -32,14 +32,6 @@ Website ini merupakan proyek sistem informasi perpustakaan berbasis **PHP** dan 
 
 ---
 
-## 🗂️ Struktur Folder (Contoh)
-- `index.php` — Halaman utama/login  
-- `siswa.php` — CRUD data siswa  
-- `buku.php` — CRUD data buku  
-- `peminjaman.php` — Formulir peminjaman  
-- `pengembalian.php` — Proses pengembalian  
-- `koneksi.php` — Koneksi database  
-- `assets/` — Folder CSS, JS, gambar
 
 ---
 
@@ -48,7 +40,7 @@ Proyek ini dikembangkan sebagai bagian dari latihan implementasi **CRUD (Create,
 
 ---
 
-## 🧑‍🎓 Dibuat Oleh
+## Dibuat Oleh
 **Janna Tazara**  
-Mahasiswa Manajemen Informatika  
-Institut Teknologi Mitra Gama
+
+
